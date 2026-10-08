@@ -5,5 +5,8 @@ String numberOfGroup = "P3106";
 System.out.println("Hello, Git!");
 System.out.println(nameOfStudent);
 System.out.println(numberOfGroup);
+int firstNumber = 2, secondNumber = 3;
+int sumOfNumbers = firstNumber + secondNumber;
+System.out.println(sumOfNumbers);
 }
 }
